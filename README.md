@@ -1,16 +1,25 @@
-### Hi there 👋
+### Привет 👋
 
-<!--
-**IvanDolinkin/IvanDolinkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я <b>Иван</b>, разработчик на python.
 
-Here are some ideas to get you started:
+### Мой стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, PostgreSQL, Git
+
+### Вот, что я умею
+
+- Python. [Репозиторий с курсовой работой](https://github.com/IvanDolinkin/cw_backup)
+
+- SQL (postgres). [Репозиторий с домашней работой](https://github.com/IvanDolinkin/PostgreSQL_from_Python)
+
+### Сертификаты Нетологии
+
+- Python https://github.com/IvanDolinkin/IvanDolinkin/blob/main/python.pdf
+
+- ООП и работа с API https://github.com/IvanDolinkin/IvanDolinkin/blob/main/api.pdf
+
+- Базы данных для python-разработчиков https://github.com/IvanDolinkin/IvanDolinkin/blob/main/db.pdf
+
+- Python https://github.com/IvanDolinkin/IvanDolinkin/blob/main/pybasic.pdf
+
+- Git https://github.com/IvanDolinkin/IvanDolinkin/blob/main/git.pdf
