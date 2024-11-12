@@ -20,6 +20,8 @@ Python, PostgreSQL, Git
 
 - Базы данных для python-разработчиков https://github.com/IvanDolinkin/IvanDolinkin/blob/main/db.pdf
 
-- Python https://github.com/IvanDolinkin/IvanDolinkin/blob/main/pybasic.pdf
+- Основы языка Python https://github.com/IvanDolinkin/IvanDolinkin/blob/main/pybasic.pdf
 
 - Git https://github.com/IvanDolinkin/IvanDolinkin/blob/main/git.pdf
+
+- Django https://github.com/IvanDolinkin/IvanDolinkin/blob/main/django.pdf
